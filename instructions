@@ -1,0 +1,7 @@
+1.run highpeak.py file 
+2.open sample_input.txt
+3.give the input that is number of employees
+4.then run the highpeak.py file
+5.open sample_output.txt file
+6.the minimum difference and the goodies distributed to employees will shown in the sample_output.txt
+7.update the value of number of employees in sample_input and rerun from step 4 and repeat
